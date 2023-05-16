@@ -1,0 +1,36 @@
+#Ejercicios carpeta
+
+#1-foreach.js
+//1-Sumar los elementos de un array de números.
+//2-Concatenar todos los elementos de un array de cadenas de texto.
+//3-Convertir todos los elementos de un array a mayúsculas.
+//4-Filtrar los elementos de un array que cumplan cierta condición.
+//5-Imprimir en consola el índice y valor de cada elemento de un array.
+
+#2-map.js
+//1-Duplicar los elementos de un array de números.
+//2-Convertir los elementos de un array de números a su valor absoluto.
+//3-Multiplicar cada elemento de un array de números por un factor dado.
+//4-Convertir los elementos de un array de cadenas de texto a números.
+//5-Crear un nuevo array con los primeros caracteres de cada elemento de un array de cadenas de texto.
+
+#3-filter.js
+//1-Filtrar los elementos de un array de números mayores a un valor dado.
+//2-Filtrar los elementos de un array de cadenas de texto que contengan cierta subcadena.
+//3-Filtrar los elementos de un array de objetos que cumplan cierta condición.
+//4-Filtrar los elementos de un array de números que sean impares.
+//5-Filtrar los elementos de un array de números que sean divisibles por un número dado.
+
+#4-reduce.js
+//1-Sumar todos los elementos de un array de números.
+//2-Concatenar todos los elementos de un array de cadenas de texto.
+//3-Encontrar el número mayor de un array de números.
+//4-Contar la cantidad de elementos de un array que cumplan cierta condición.
+//5-Calcular el promedio de un array de números.
+
+#5-sort.js
+//1-Ordenar un array de números de menor a mayor.
+//2-Ordenar un array de cadenas de texto en orden alfabético.
+//3-Ordenar un array de objetos por una propiedad dada.
+//4-Ordenar un array de números de mayor a menor.
+//5-Ordenar un array de cadenas de texto por su longitud.
